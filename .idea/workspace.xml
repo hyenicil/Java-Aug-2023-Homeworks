@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8546aa0-edf6-4782-a7be-61bc8217ebcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework - 1/HW1 - QUESTION - 1/HW1 - QUESTION - 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework - 1/HW1 - QUESTION - 2/HW1 - QUESTION - 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework - 1/HW1 - QUESTION - 3/HW1 - QUESTION - 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework - 1/Homework - 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework - 2/HW2 - QUESTION - 1/HW2 - QUESTION - 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework - 2/HW2 - QUESTION - 2/HW2 - QUESTION - 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework - 2/HW2 - QUESTION - 3/HW2 - QUESTION - 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework - 2/Homework - 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework - 3/Homework - 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Aug-2023-Homeworks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework - 4/HW4-QUESTION - 1/HW4-QUESTION - 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework - 4/HW4-QUESTION - 1/src/csd/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework - 4/Homework - 4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2jTVlvCPuc5fHHOJX866Z0ynVuu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,9 +38,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.App.executor": "Run",
+    "Application.csd.App.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "development",
+    "git-widget-placeholder": "HW4-Q1",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -57,15 +49,13 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.7468355",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.csd.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="csd.App" />
-      <module name="Question - 1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="csd.*" />
@@ -76,8 +66,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="csd.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="csd.App" />
+      <module name="HW4-QUESTION - 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="csd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.csd.App" />
+      <item itemvalue="Application.App" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.csd.App" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
@@ -98,7 +106,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721411208272</updated>
-      <workItem from="1721411209314" duration="647000" />
+      <workItem from="1721411209314" duration="3732000" />
+      <workItem from="1724585643701" duration="19000" />
+      <workItem from="1727198267690" duration="7598000" />
     </task>
     <servers />
   </component>
