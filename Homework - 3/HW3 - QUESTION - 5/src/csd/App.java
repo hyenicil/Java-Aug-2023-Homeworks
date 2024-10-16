@@ -1,3 +1,22 @@
+/*
+ *
+ * Aşağıdaki açıklamalara göre bir tamsayının super asal (super prime) olup olmadığını test eden isSuperPrime isimli
+ * metodu yazınız ve test ediniz.
+ * Not: Super asal sayılara asal indeksli asal sayılar (prime indexed primes) da denir
+ * Açıklamalar:
+ *   Tüm asal sayıların 1 değerinden başlayarak indekslendiğini düşünelim:
+ *           1 -> 2
+ *           2 -> 3 *
+ *           3 -> 5 *
+ *           4 -> 7
+ *           5 -> 11 *
+ *           6 -> 13
+ *           7 -> 17 *
+ *           ...
+ * Eğer asal sayının indeksi de yani kaçıncı asal sayı olduğu da asal ise bu sayı super asal sayıdır.
+ *
+ * */
+
 package csd;
 
 class App {

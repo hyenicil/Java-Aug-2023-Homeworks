@@ -1,3 +1,15 @@
+/*
+ *
+ * Parametresi ile aldığı int türden bir sayının basamaksal kökünü bulan calculateDigitalRoot isimli metodu yazınız ve test
+ * ediniz
+ * Açıklamalar:
+ *       Bir sayının basamaksal kökü tüm basamaklarının toplanması ile elde edilen sayıdır. Basamakları toplama işlemi,
+ *       tek basamaklı bir sayı elde edilene kadar sürdürülür:
+ *           36987 -> 3 + 6 + 9 + 8 + 7 = 33
+ *           33 -> 3 + 3 = 6 → basamaksal kök
+ *
+ * */
+
 package csd;
 
 class App {

@@ -1,11 +1,12 @@
-package csd;
 /*
-*
-* e sayısını aşağıdaki seri toplamıyla bulabilirsiniz :
-* e= 1/0! + 1/1! + 1/2! + 1/3! + 1/4! ...
-* Bir Java programı yazarak e sayısını yukarıdaki seri toplamıyla hesaplayıp ekrana yazdırınız.
-*
-* */
+ *
+ * e sayısını aşağıdaki seri toplamıyla bulabilirsiniz :
+ * e= 1/0! + 1/1! + 1/2! + 1/3! + 1/4! ...
+ * Bir Java programı yazarak e sayısını yukarıdaki seri toplamıyla hesaplayıp ekrana yazdırınız.
+ *
+ * */
+
+package csd;
 
 class App {
     public static void main(String[] args) {

@@ -1,4 +1,3 @@
-package csd;
 //Burayi yaparken zorlandim ve daha sonra cozumlere bakilacak.
 /*
  *
@@ -7,6 +6,9 @@ package csd;
  * sayının doğal çarpanıdır ve toplama dahil edilecektir.)
  *
  *  */
+
+package csd;
+
 class App {
     public static void main(String[] args) {
         NumberUtilTest.run();

@@ -1,3 +1,13 @@
+/*
+ *
+ * Pozitif bir sayının factorian sayısı olup olmadığını test eden isFactorian isimli metodu yazınız ve test ediniz.
+ * Açıklamalar:
+ *   Basamaklarının faktoriyelleri toplamı kendisine eşit olan sayıya factorian denir.
+ *   Sayma sayılarında (pozitif sayılarda) 4 tane factorian sayı vardır. Bunlardan ilk ikisi şüphesiz 1 ve 2'dir.
+ *   Diğerlerini de bulan test kodunu yazınız. İpucu: Kalan iki sayı da 100000 değerinden küçüktür.
+ *
+ * */
+
 package csd;
 
 class App {

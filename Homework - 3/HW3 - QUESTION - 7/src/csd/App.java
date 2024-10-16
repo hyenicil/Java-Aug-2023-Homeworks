@@ -1,3 +1,13 @@
+/*
+ *
+ * Parametresi ile aldığı int türden bir sayının 10'luk sistemde Harshad sayısı olup olmadığını test eden isDecimalHarshad
+ * isimli metodu NumberUtil sınıfı içerisinde yazınız ve test ediniz.
+ * Açıklamalar:
+ *       Basamaklarının toplamına bölünebilen sayılara Harshad (Niven) sayıları denir.
+ *       Metot negatif sayılar için false değerine dönecektir.
+ *
+ * */
+
 package csd;
 
 class App {
