@@ -1,3 +1,13 @@
+/*
+ *
+ * n pozitif bir tamsayı üzere ve a, b, c, d birbirinden farklı pozitif tamsayılar olmak üzere eğer
+ *               n = a3 + b3 = c3 + d3
+ * eşitliğini sağlayacak şekilde a, b, c ve d tamsayıları var ise n bir Hardy-Ramanujan sayısıdır:
+ *               1729 = 9 3 + 103 = 13 + 123
+ * Buna göre 100000'den küçük olan tüm Hardy-Ramanujan sayılarını ekrana bastıran programı yazınız.
+ *
+ * */
+
 package csd;
 
 class App {
