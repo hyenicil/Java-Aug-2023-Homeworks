@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8546aa0-edf6-4782-a7be-61bc8217ebcc" name="Changes" comment="" />
+    <list default="true" id="c8546aa0-edf6-4782-a7be-61bc8217ebcc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Homework - 5/HW5 - QUESTION - 4/HW5 - QUESTION - 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework - 5/HW5 - QUESTION - 4/src/csd/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,12 +37,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Ap.executor": "Run",
+    "Application.App (1).executor": "Run",
     "Application.App.executor": "Run",
     "Application.Unnamed.executor": "Run",
     "Application.csd.App.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "HW5-Q3",
+    "git-widget-placeholder": "HW5-Q4",
     "jdk.selected.JAVA_MODULE": "graalvm-jdk-21",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Stitch_Developer/Drive'ım/Yazılım/Github/Test-Java",
@@ -52,26 +58,6 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="csd.App" />
-      <module name="HW5 - QUESTION - 3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="csd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.App" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -94,6 +80,9 @@
       <workItem from="1727618947082" duration="751000" />
       <workItem from="1729013483635" duration="3172000" />
       <workItem from="1729109663641" duration="2778000" />
+      <workItem from="1729195043085" duration="2000" />
+      <workItem from="1729715402866" duration="854000" />
+      <workItem from="1729804151094" duration="4888000" />
     </task>
     <servers />
   </component>
