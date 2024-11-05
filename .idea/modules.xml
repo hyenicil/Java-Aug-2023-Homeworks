@@ -31,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/InClassAssignment/InClassAssignment.iml" filepath="$PROJECT_DIR$/InClassAssignment/InClassAssignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Aug-2023-Homeworks.iml" filepath="$PROJECT_DIR$/Java-Aug-2023-Homeworks.iml" />
       <module fileurl="file://$PROJECT_DIR$/InClassAssignment/Palindrom/Palindrom.iml" filepath="$PROJECT_DIR$/InClassAssignment/Palindrom/Palindrom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InClassAssignment/is-pad-lead-and-trail/is-pad-lead-and-trail.iml" filepath="$PROJECT_DIR$/InClassAssignment/is-pad-lead-and-trail/is-pad-lead-and-trail.iml" />
     </modules>
   </component>
 </project>
