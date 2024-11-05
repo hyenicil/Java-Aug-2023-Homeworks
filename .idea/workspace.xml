@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8546aa0-edf6-4782-a7be-61bc8217ebcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework - 5/HW5 - QUESTION - 4/HW5 - QUESTION - 4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework - 5/HW5 - QUESTION - 4/src/csd/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InClassAssignment/InClassAssignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InClassAssignment/Palindrom/Palindrom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InClassAssignment/Palindrom/src/csd/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -25,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hyenicil&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:hyenicil/Java-Aug-2023-Homeworks.git&quot;,
+    &quot;accountId&quot;: &quot;f3e83c63-a113-471e-b3f8-ab510147fed7&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -43,10 +56,10 @@
     "Application.csd.App.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "HW5-Q4",
+    "git-widget-placeholder": "is-assignment-1",
     "jdk.selected.JAVA_MODULE": "graalvm-jdk-21",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Stitch_Developer/Drive'ım/Yazılım/Github/Test-Java",
+    "last_opened_file_path": "/Users/huseyin/Library/CloudStorage/GoogleDrive-yenicilh@gmail.com/Drive'ım/Yazılım/Github/Java-Aug-2023-Homeworks",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,6 +71,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="csd.App" />
+      <module name="Palindrom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="csd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -83,6 +116,8 @@
       <workItem from="1729195043085" duration="2000" />
       <workItem from="1729715402866" duration="854000" />
       <workItem from="1729804151094" duration="4888000" />
+      <workItem from="1730634424473" duration="26000" />
+      <workItem from="1730829050861" duration="2465000" />
     </task>
     <servers />
   </component>
