@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8546aa0-edf6-4782-a7be-61bc8217ebcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/InClassAssignment/InClassAssignment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InClassAssignment/Palindrom/Palindrom.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InClassAssignment/Palindrom/src/csd/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InClassAssignment/is-pad-lead-and-trail/is-pad-lead-and-trail.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InClassAssignment/is-pad-lead-and-trail/src/csd/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -56,7 +55,7 @@
     "Application.csd.App.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "is-assignment-1",
+    "git-widget-placeholder": "is-assignment-2",
     "jdk.selected.JAVA_MODULE": "graalvm-jdk-21",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/huseyin/Library/CloudStorage/GoogleDrive-yenicilh@gmail.com/Drive'ım/Yazılım/Github/Java-Aug-2023-Homeworks",
@@ -74,7 +73,7 @@
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="csd.App" />
-      <module name="Palindrom" />
+      <module name="is-pad-lead-and-trail" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="csd.*" />
@@ -117,7 +116,7 @@
       <workItem from="1729715402866" duration="854000" />
       <workItem from="1729804151094" duration="4888000" />
       <workItem from="1730634424473" duration="26000" />
-      <workItem from="1730829050861" duration="2465000" />
+      <workItem from="1730829050861" duration="4017000" />
     </task>
     <servers />
   </component>
