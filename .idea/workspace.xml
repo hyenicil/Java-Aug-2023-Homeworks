@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8546aa0-edf6-4782-a7be-61bc8217ebcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/InClassAssignment/is-pad-lead-and-trail/is-pad-lead-and-trail.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InClassAssignment/is-pad-lead-and-trail/src/csd/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework - 6/Homework - 6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework - 6/src/csd/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +30,12 @@
     &quot;assignee&quot;: &quot;hyenicil&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:hyenicil/Java-Aug-2023-Homeworks.git&quot;,
-    &quot;accountId&quot;: &quot;f3e83c63-a113-471e-b3f8-ab510147fed7&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hyenicil/Java-Aug-2023-Homeworks.git",
+    "accountId": "423ddbeb-6a28-4b79-ab93-54a96720696f"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -54,11 +53,12 @@
     "Application.Unnamed.executor": "Run",
     "Application.csd.App.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "is-assignment-2",
+    "git-widget-placeholder": "HW6-Q1",
     "jdk.selected.JAVA_MODULE": "graalvm-jdk-21",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/huseyin/Library/CloudStorage/GoogleDrive-yenicilh@gmail.com/Drive'ım/Yazılım/Github/Java-Aug-2023-Homeworks",
+    "last_opened_file_path": "C:/Users/yenic/OneDrive/Masaüstü/Java-Aug-2023-Homeworks",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,7 +70,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.App (1)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="csd.App" />
+      <module name="Homework - 6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="csd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="csd.App" />
       <module name="is-pad-lead-and-trail" />
@@ -86,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
@@ -93,8 +107,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
       </set>
     </attachedChunks>
   </component>
@@ -117,6 +131,7 @@
       <workItem from="1729804151094" duration="4888000" />
       <workItem from="1730634424473" duration="26000" />
       <workItem from="1730829050861" duration="4017000" />
+      <workItem from="1737320008900" duration="136000" />
     </task>
     <servers />
   </component>
