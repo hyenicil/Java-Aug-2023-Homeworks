@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8546aa0-edf6-4782-a7be-61bc8217ebcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework - 6/Homework - 6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework - 6/src/csd/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework - 7/HW7 - QUESTION - 1/HW7 - QUESTION - 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework - 7/HW7 - QUESTION - 1/src/csd/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework - 7/Homework - 7.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,50 +32,66 @@
     &quot;assignee&quot;: &quot;hyenicil&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/hyenicil/Java-Aug-2023-Homeworks.git",
-    "accountId": "423ddbeb-6a28-4b79-ab93-54a96720696f"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hyenicil/Java-Aug-2023-Homeworks.git&quot;,
+    &quot;accountId&quot;: &quot;423ddbeb-6a28-4b79-ab93-54a96720696f&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2jTVlvCPuc5fHHOJX866Z0ynVuu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Ap.executor": "Run",
-    "Application.App (1).executor": "Run",
-    "Application.App.executor": "Run",
-    "Application.Unnamed.executor": "Run",
-    "Application.csd.App.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "HW6-Q1",
-    "jdk.selected.JAVA_MODULE": "graalvm-jdk-21",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/yenic/OneDrive/Masaüstü/Java-Aug-2023-Homeworks",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.7468355",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Ap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.App (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.App (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Application.csd.App.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;HW7-Q1&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;graalvm-jdk-21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yenic/OneDrive/Masaüstü/Google Drive (Not synced)/Yazılım/Github/Java-Aug-2023-Homeworks&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/yenic/OneDrive/Masaüstü/Google Drive (Not synced)/Yazılım/Github/Java-Aug-2023-Homeworks/Homework - 7/HW7 - QUESTION - 2/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.7468355&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.App (1)">
+}</component>
+  <component name="RunManager" selected="Application.App (2)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="csd.App" />
       <module name="Homework - 6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="csd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="csd.App" />
+      <module name="HW7 - QUESTION - 1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="csd.*" />
@@ -99,6 +117,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
       </list>
@@ -107,8 +126,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
       </set>
     </attachedChunks>
   </component>
@@ -132,6 +151,12 @@
       <workItem from="1730634424473" duration="26000" />
       <workItem from="1730829050861" duration="4017000" />
       <workItem from="1737320008900" duration="136000" />
+      <workItem from="1737322376283" duration="1818000" />
+      <workItem from="1737332397616" duration="2031000" />
+      <workItem from="1757356480866" duration="4303000" />
+      <workItem from="1757396844462" duration="1135000" />
+      <workItem from="1757408476558" duration="1205000" />
+      <workItem from="1757445754044" duration="2000" />
     </task>
     <servers />
   </component>
