@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8546aa0-edf6-4782-a7be-61bc8217ebcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework - 8/HW8 - QUESTION - 1/HW8 - QUESTION - 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework - 8/Homework - 8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework - 8/HW8 - QUESTION - 2/HW8 - QUESTION - 2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HW7 - QUESTION - 1/csd/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HW7 - QUESTION - 1/csd/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HW7 - QUESTION - 1/csd/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HW7 - QUESTION - 1/csd/AppTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HW7 - QUESTION - 2/DateUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HW7 - QUESTION - 2/DateUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HW7 - QUESTION - 2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HW7 - QUESTION - 2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HW7 - QUESTION - 2/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HW7 - QUESTION - 2/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,14 +50,14 @@
     "Application.App (1).executor": "Run",
     "Application.App (2).executor": "Run",
     "Application.App.executor": "Run",
-    "Application.Main.executor": "Run",
+    "Application.Main.executor": "Debug",
     "Application.Unnamed.executor": "Run",
     "Application.csd.App.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "HW8-Q1",
+    "git-widget-placeholder": "HW8-Q2",
     "jdk.selected.JAVA_MODULE": "graalvm-jdk-21",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/yenic/OneDrive/Masaüstü/Google Drive (Not synced)/Yazılım/Github/Java-Aug-2023-Homeworks",
@@ -72,7 +66,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/yenic/OneDrive/Masaüstü/Google Drive (Not synced)/Yazılım/Github/Java-Aug-2023-Homeworks/Homework - 7/HW7 - QUESTION - 2/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/yenic/OneDrive/Masaüstü/Google Drive (Not synced)/Yazılım/Github/Java-Aug-2023-Homeworks/Homework - 8/HW8 - QUESTION - 2/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.7468355",
@@ -80,20 +74,6 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="HW8 - QUESTION - 1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -134,7 +114,7 @@
       <workItem from="1764697013412" duration="633000" />
       <workItem from="1764870968962" duration="1000" />
       <workItem from="1764870982953" duration="5656000" />
-      <workItem from="1765101660686" duration="2396000" />
+      <workItem from="1765101660686" duration="4004000" />
     </task>
     <servers />
   </component>
