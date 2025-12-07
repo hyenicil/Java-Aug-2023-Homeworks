@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8546aa0-edf6-4782-a7be-61bc8217ebcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework - 8/HW8 - QUESTION - 2/HW8 - QUESTION - 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework - 8/HW8 - QUESTION - 3/HW8 - QUESTION - 3.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework - 8/HW8 - QUESTION - 1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework - 8/HW8 - QUESTION - 1/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "HW8-Q2",
+    "git-widget-placeholder": "HW8-Q3",
     "jdk.selected.JAVA_MODULE": "graalvm-jdk-21",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/yenic/OneDrive/Masaüstü/Google Drive (Not synced)/Yazılım/Github/Java-Aug-2023-Homeworks",
@@ -66,7 +67,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/yenic/OneDrive/Masaüstü/Google Drive (Not synced)/Yazılım/Github/Java-Aug-2023-Homeworks/Homework - 8/HW8 - QUESTION - 2/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/yenic/OneDrive/Masaüstü/Google Drive (Not synced)/Yazılım/Github/Java-Aug-2023-Homeworks/Homework - 8/HW8 - QUESTION - 3/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.7468355",
@@ -128,6 +129,11 @@
           <url>file://$PROJECT_DIR$/Homework - 5/HW5 - QUESTION - 1/src/csd/App.java</url>
           <line>17</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Homework - 8/HW8 - QUESTION - 3/src/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
