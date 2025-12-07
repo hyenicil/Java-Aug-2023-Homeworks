@@ -27,9 +27,9 @@ class ParserBracketsUtil {
     public static void errorMessage (String text) {
         System.out.printf("%s\n",text);
     }
+
     public static void indexBrackets(String input) {
         int firstClosedBracket = input.indexOf(CLOSE);
-
         if (firstClosedBracket == -1) {
            errorMessage("Sonuç: yanlış bir giriş");
         }
