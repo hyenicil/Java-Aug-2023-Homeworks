@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8546aa0-edf6-4782-a7be-61bc8217ebcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework - 8/HW8 - QUESTION - 5/HW8 - QUESTION - 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework - 8/HW8 - QUESTION - 6/HW8 - QUESTION - 6.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -52,6 +52,7 @@
     "Application.App (2).executor": "Run",
     "Application.App.executor": "Run",
     "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Unnamed.executor": "Run",
     "Application.csd.App.executor": "Run",
@@ -61,7 +62,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "HW8-Q5",
+    "git-widget-placeholder": "HW8-Q6",
     "jdk.selected.JAVA_MODULE": "graalvm-jdk-21",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/yenic/OneDrive/Masaüstü/Google Drive (Not synced)/Yazılım/Github/Java-Aug-2023-Homeworks",
@@ -70,7 +71,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/yenic/OneDrive/Masaüstü/Google Drive (Not synced)/Yazılım/Github/Java-Aug-2023-Homeworks/Homework - 8/HW8 - QUESTION - 5/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/yenic/OneDrive/Masaüstü/Google Drive (Not synced)/Yazılım/Github/Java-Aug-2023-Homeworks/Homework - 8/HW8 - QUESTION - 6/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.7468355",
@@ -87,10 +88,17 @@
       <recent name="C:\Users\yenic\OneDrive\Masaüstü\Google Drive (Not synced)\Yazılım\Github\Java-Aug-2023-Homeworks\Homework - 8\HW8 - QUESTION - 3\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="HW8 - QUESTION - 5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HW8 - QUESTION - 6" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -104,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
