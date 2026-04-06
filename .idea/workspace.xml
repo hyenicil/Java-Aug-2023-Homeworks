@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8546aa0-edf6-4782-a7be-61bc8217ebcc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework - 8/HW8 - QUESTION - 5/HW8 - QUESTION - 5.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -30,12 +30,12 @@
     &quot;assignee&quot;: &quot;hyenicil&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/hyenicil/Java-Aug-2023-Homeworks.git",
-    "accountId": "3b2162d6-10c4-4511-b279-c69eb4e1d77c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hyenicil/Java-Aug-2023-Homeworks.git&quot;,
+    &quot;accountId&quot;: &quot;3b2162d6-10c4-4511-b279-c69eb4e1d77c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -51,6 +51,7 @@
     "Application.App (1).executor": "Run",
     "Application.App (2).executor": "Run",
     "Application.App.executor": "Run",
+    "Application.Main (1).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Unnamed.executor": "Run",
     "Application.csd.App.executor": "Run",
@@ -60,7 +61,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "HW8-Q4",
+    "git-widget-placeholder": "HW8-Q5",
     "jdk.selected.JAVA_MODULE": "graalvm-jdk-21",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/yenic/OneDrive/Masaüstü/Google Drive (Not synced)/Yazılım/Github/Java-Aug-2023-Homeworks",
@@ -69,7 +70,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/yenic/OneDrive/Masaüstü/Google Drive (Not synced)/Yazılım/Github/Java-Aug-2023-Homeworks/Homework - 8/HW8 - QUESTION - 4/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/yenic/OneDrive/Masaüstü/Google Drive (Not synced)/Yazılım/Github/Java-Aug-2023-Homeworks/Homework - 8/HW8 - QUESTION - 5/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.7468355",
@@ -86,7 +87,14 @@
       <recent name="C:\Users\yenic\OneDrive\Masaüstü\Google Drive (Not synced)\Yazılım\Github\Java-Aug-2023-Homeworks\Homework - 8\HW8 - QUESTION - 3\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HW8 - QUESTION - 5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="HW8 - QUESTION - 4" />
@@ -96,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
